@@ -1,0 +1,47 @@
+# Python environments and bytecode
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Local secrets and configuration
+.env
+.env.*
+!.env.example
+
+# Local databases and SQLite journals (expense data must stay private)
+*.db
+*.sqlite
+*.sqlite3
+*.db-wal
+*.db-shm
+*.sqlite-wal
+*.sqlite-shm
+
+# macOS, editors, and temporary files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+*.log
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local generated deliverables and scratch files
+outputs/
+work/
+
+# Local chart-rendering scratch bundles
+.chart-data-*/
+
+# Additional Python tooling output
+.mypy_cache/
+*.egg-info/
+dist/
+build/
