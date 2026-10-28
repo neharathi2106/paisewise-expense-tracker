@@ -138,7 +138,6 @@ Possible extensions include CSV import/export, optional category budgets, recurr
 ## Academic project credits
 
 - **Student:** Neha Rathi
-- **Faculty guide:** [Faculty Name]
 - **Course / subject:** Design and Analysis of Algorithms (DAA)
 - **Institution:** University of Petroleum and Energy Studies (UPES), Dehradun
 - **Batch:** Batch 2025/ 2nd year
